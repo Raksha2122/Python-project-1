@@ -1,7 +1,7 @@
 #Install the library gtts
 #write on your command prompt py -m pip install gtts
 
-from gtts import gTTS
+from gtts import gTTS  #gTTS (Google Text-to-Speech)
 import os
 
 user_input = input("Enter the text you want to convert to speech: ")
